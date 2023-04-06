@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Falcon Empire",
+        "leaderName": "Maks",
+        "adjective": ["Falcon's"],
+        "startBias": ["Forest"],
+        "preferredVictoryType": "Domination",
+        
+        "startIntroPart1": "Welcome to this, great world."
+        "startIntroPart2": "Kill everyone!",
+        
+        "declaingWar": "Yield! Or die!",
+        "attacked": "We will stand to the end!",
+        "defeated": "It's nothing...",
+        "introduction": "We're glad to see you.",
+        
+        "neutralHello": "Greetings.",
+        "neutralNo": "We don't agree.",
+        "neutralYes": "Ok.",
+        
+        "hateHello": "We're not happy to see you.",
+        "hateNo": "Go f#ck yourself.",
+        "hateYes": "Fine...",
+        
+        "tradeRequsest": "Take it!",
+        "innerColor": [99,82,9],
+        "outerColor": [55,127,3],
+        "uniques": ["[-90]% [Happiness]","[+50]% [Production]","[+50]% [Gold]","[+50]% [Science]","[+50]% [Culture]","[+50]% [Faith]"],
+        "uniqueName": "Empirealism",
+        "cities": ["Vlopus","Clahding","Zruamgate","Zlumore","Showell","Qord","Zille","Ensby","Esterburn","Greetol","Framford","Chesas","Mudmouth","Pruport","Plolis","Wrego","Slanbu","Irieshire","Esamore","Oniburg"]
+    }
+]

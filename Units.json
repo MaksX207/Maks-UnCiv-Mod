@@ -1,0 +1,16 @@
+[
+    {
+        "name": "T64",
+        "unitType": "Armored",
+        "replaces": "Modern Armor",
+        "uniqueTo": "Falcon Empire",
+        "movement": 7,
+        "strength": 100,
+        "cost": 325,
+        "requiredTech": "Lasers",
+        "requiredResource": "Aluminum",
+        "upgradesTo": "Giant Death Robot",
+        "uniques": ["Can move after attacking","No defensive terrain bonus","Never appear as a Barbarian unit","Ignore terrain cost"],
+        "attackSound": "tankshot"
+    }
+]
