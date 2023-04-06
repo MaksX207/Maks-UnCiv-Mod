@@ -6,7 +6,7 @@
         "startBias": ["Forest"],
         "preferredVictoryType": "Domination",
         
-        "startIntroPart1": "Welcome to this, great world."
+        "startIntroPart1": "Welcome to this great world.",
         "startIntroPart2": "Kill everyone!",
         
         "declaingWar": "Yield! Or die!",
@@ -22,7 +22,7 @@
         "hateNo": "Go f#ck yourself.",
         "hateYes": "Fine...",
         
-        "tradeRequsest": "Take it!",
+        "tradeRequsest": "Agree!",
         "innerColor": [99,82,9],
         "outerColor": [55,127,3],
         "uniques": ["[-90]% [Happiness]","[+50]% [Production]","[+50]% [Gold]","[+50]% [Science]","[+50]% [Culture]","[+50]% [Faith]"],
