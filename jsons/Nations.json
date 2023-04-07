@@ -25,7 +25,7 @@
         "tradeRequsest": "Agree!",
         "innerColor": [99,82,9],
         "outerColor": [55,127,3],
-        "uniques": ["[-90]% [Happiness]","[+50]% [Production]","[+50]% [Gold]","[+50]% [Science]","[+50]% [Culture]","[+50]% [Faith]"],
+        "uniques": ["[-60]% [Happiness]","[+50]% [Production]","[+50]% [Gold]","[+50]% [Science]","[+50]% [Culture]","[+50]% [Faith]"],
         "uniqueName": "Empirealism",
         "cities": ["Vlopus","Clahding","Zruamgate","Zlumore","Showell","Qord","Zille","Ensby","Esterburn","Greetol","Framford","Chesas","Mudmouth","Pruport","Plolis","Wrego","Slanbu","Irieshire","Esamore","Oniburg"]
     }
